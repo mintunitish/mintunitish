@@ -16,8 +16,3 @@
 - Engineering Manager at [Mingout](https://www.mingout.com)
 - Loves a freshly brewed cup of coffee
 - Spends most of his time exploring new places around the globe
-
-![Metrics](https://raw.githubusercontent.com/mintunitish/mintunitish/github-metrics/github-metrics.svg)
-![Most used languages](https://raw.githubusercontent.com/mintunitish/mintunitish/github-metrics/language.svg)
-![Notable contributions](https://raw.githubusercontent.com/mintunitish/mintunitish/github-metrics/notable.svg)
-![Achievements](https://raw.githubusercontent.com/mintunitish/mintunitish/github-metrics/achievements.svg)
