@@ -13,6 +13,6 @@
 
 ## I am Nitish Kumar
 
-- Engineering Manager at [Mingout](https://www.mingout.com)
+- Engineering Manager at [Zipteams](https://zipteams.com/)
 - Loves a freshly brewed cup of coffee
 - Spends most of his time exploring new places around the globe
