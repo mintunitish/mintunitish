@@ -7,8 +7,6 @@
       alt="LinkedIn"
     />
   </a>
-
-  <a href="https://app.daily.dev/mintunitish"><img src="https://api.daily.dev/devcards/6ed5199fee584e608c1b7b051dc52bd9.png?r=ces" width="256" align="right" alt="Nitish Kumar's Dev Card"/></a>
 </div>
 
 ## I am Nitish Kumar
