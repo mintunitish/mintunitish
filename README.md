@@ -10,7 +10,6 @@
 </div>
 
 ## I am Nitish Kumar
-- Co-Founder at [Polartern](https://www.polartern.com/)
 - Engineering Manager at [Zipteams](https://zipteams.com/)
 - Loves a freshly brewed cup of coffee
 - Spends most of his time exploring new places around the globe
